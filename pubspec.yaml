@@ -2,7 +2,7 @@ name: material_alertdialog
 description: A new Flutter MaterialAlertDialog package project.
 version: 0.0.1
 authors:
-   - ankitpatil.works <patilankit.sh@gmail.com>
+   - Ankit Patil <patilankit.sh@gmail.com>
 homepage: https://github.com/PatilAnkits/Flutter-MaterialAlertDialog
 
 environment:
