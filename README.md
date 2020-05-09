@@ -13,7 +13,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
 
-Android Library to implement *animated*, 🥰 *Attractive*, 🎨*stylish* Material Dialog in android apps easily.
+## Android Library to implement *animated*, 🥰 *Attractive*, 🎨*stylish* Material Dialog in android apps easily.
 
 <table style="width:100%">
   <tr>
@@ -23,5 +23,24 @@ Android Library to implement *animated*, 🥰 *Attractive*, 🎨*stylish* Materi
   <tr>
     <td><img src="gifs/alert.gif"/></td>
     <td><img src="gifs/animated.gif"/></td>
+  </tr>
+</table>
+
+# Introduction
+
+**MaterialAlerDialog** library is built upon Flutter Material Design library. This API will be useful to create rich, animated, beautiful dialogs in Flutter  easily. 
+
+<table style="width:100%">
+  <tr>
+    <th><b>1. Material Alert Dialog<b></b></th>
+    <th>2. Bottom Sheet Material Dialog</th>
+  </tr>
+  <tr>
+    <td>This is basic material dialog which has two material buttons (Same as Fluter's AlertDialog) as you can see below.</td>
+    <td>This is Animated material alert  dialog which has two material buttons which is showed from bottom of device as you can see below.</td> 
+  </tr>
+  <tr>
+    <td align="center"><img src="gifs/alert.jpg" width="75%"/></td>
+    <td align="center"><img src="gifs/animated.jpg" width="75%"/></td> 
   </tr>
 </table>
