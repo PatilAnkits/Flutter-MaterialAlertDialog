@@ -21,7 +21,7 @@ Android Library to implement *animated*, 🥰 *Attractive*, 🎨*stylish* Materi
     <th>2. Animated Material Dialog</th> 
   </tr>
   <tr>
-    <td><img src="alertDialog.gif"/></td>
-    <td><img src="GIFs/AnimatedMaterialDialog.gif"/></td>
+    <td><img src="gifs/alert.gif"/></td>
+    <td><img src="gifs/animated.gif"/></td>
   </tr>
 </table>
