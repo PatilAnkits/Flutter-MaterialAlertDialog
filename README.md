@@ -77,3 +77,34 @@ As there are two types of dialogs in library. Material Dialogs are instantiated 
 <img align="center" src="gifs/alert.gif" width="300"/>
 
 
+#### ii. MaterialAlertDialog
+`AnimatedMaterialAlertDialog` class is used to create MaterialAlertDialog. Its static `Builder` class is used to instantiate it. 
+```java
+       showDialog(context: context, builder:(context)=>
+       AnimatedMaterialAlertDialog(
+                      
+                      imagePath: "assets/steth.jpg"
+                      
+                      height: 250,
+
+                      title: "Exit",
+
+                      message: "Are you sure you want to quit",
+
+                     onPresedPositiveButton: (){
+                     
+                       //add what you want for navigate
+                       
+                     },
+
+                      onPresedNegativeButton: (){
+                        Navigator.pop(context);
+                      },
+
+                   ),
+               );
+```
+
+<img align="center" src="gifs/animated.gif" width="300"/>
+
+
