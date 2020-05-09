@@ -48,4 +48,32 @@ samples, guidance on mobile development, and a full API reference.
 ## Implementation
 Implementation of Material Alert Dialog library is so easy. You can check [/app](/app) directory for demo. Let's have look on basic steps of implementation.
 
+### Create AlertDialog Instance
+As there are two types of dialogs in library. Material Dialogs are instantiated as follows.
+#### i. MaterialAlertDialog
+`MaterialDialog` class is used to create MaterialAlertDialog. Its static `Builder` class is used to instantiate it. 
+```java
+       showDialog(context: context, builder:(context)=>
+       MaterialAlertDialog(
+
+                      height: 250,
+
+                      title: "Exit",
+
+                      message: "Are you sure you want to quit",
+
+                     onPresedPositiveButton: (){
+                       //add what you want for navigate
+                     },
+
+                      onPresedNegativeButton: (){
+                        Navigator.pop(context);
+                      },
+
+                   ),
+               );
+```
+
+<img align="center" src="gifs/alert.gif" width="300"/>
+
 
