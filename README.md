@@ -65,7 +65,7 @@ Alternatively, your editor might support `flutter pub get.` Check the docs for y
 ## 3. Import it
 Now in your Dart code, you can use:
 ```
-Now in your Dart code, you can use:
+import 'package:material_alertdialog/material_alertdialog.dart';
 ```
 ### Create AlertDialog Instance
 As there are two types of dialogs in library. Material Dialogs are instantiated as follows.
