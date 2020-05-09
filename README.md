@@ -110,5 +110,5 @@ As there are two types of dialogs in library. Material Dialogs are instantiated 
 ## Credits
 This library is built using following open-source libraries.
 - [Material Components for Flutter]
-- [Material Dialog - Android](https://github.com/PatilShreyas/MaterialDialog-Android/)
+- [Material Dialog - Android - By Shreays Patil](https://github.com/PatilShreyas/MaterialDialog-Android/)
 
