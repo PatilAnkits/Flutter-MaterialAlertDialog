@@ -48,6 +48,25 @@ samples, guidance on mobile development, and a full API reference.
 ## Implementation
 Implementation of Material Alert Dialog library is so easy. You can check [/app](/app) directory for demo. Let's have look on basic steps of implementation.
 
+#use this package as library
+## 1.Depend on it
+ Add this to your package's pubspec.yaml file:
+ ```
+ dependencies:
+  material_alertdialog: ^0.0.1
+ ```
+## 2. Install it
+You can install packages from the command line:
+```
+$ flutter pub get
+```
+Alternatively, your editor might support `flutter pub get.` Check the docs for your editor to learn more.
+
+## 3. Import it
+Now in your Dart code, you can use:
+```
+Now in your Dart code, you can use:
+```
 ### Create AlertDialog Instance
 As there are two types of dialogs in library. Material Dialogs are instantiated as follows.
 #### i. MaterialAlertDialog
