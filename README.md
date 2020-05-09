@@ -33,7 +33,7 @@ samples, guidance on mobile development, and a full API reference.
 <table style="width:100%">
   <tr>
     <th><b>1. Material Alert Dialog<b></b></th>
-    <th>2. Bottom Sheet Material Dialog</th>
+    <th>2. Animated Material Alert Dialog</th>
   </tr>
   <tr>
     <td>This is basic material dialog which has two material buttons (Same as Fluter's AlertDialog) as you can see below.</td>
@@ -44,3 +44,8 @@ samples, guidance on mobile development, and a full API reference.
     <td align="center"><img src="gifs/animated.jpg" width="75%"/></td> 
   </tr>
 </table>
+
+## Implementation
+Implementation of Material Alert Dialog library is so easy. You can check [/app](/app) directory for demo. Let's have look on basic steps of implementation.
+
+
