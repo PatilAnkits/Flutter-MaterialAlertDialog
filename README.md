@@ -105,6 +105,6 @@ As there are two types of dialogs in library. Material Dialogs are instantiated 
                );
 ```
 
-<img align="center" src="gifs/animated.gif" width="300"/>
+<img style="text_align:center" align="center" src="gifs/animated.gif" width="300"/>
 
 
