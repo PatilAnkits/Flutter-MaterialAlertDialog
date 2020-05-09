@@ -48,7 +48,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Implementation
 Implementation of Material Alert Dialog library is so easy. You can check [/app](/app) directory for demo. Let's have look on basic steps of implementation.
 
-# use this package as library
+# Use this package as library
 ## 1.Depend on it
  Add this to your package's pubspec.yaml file:
  ```
